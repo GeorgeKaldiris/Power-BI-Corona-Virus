@@ -1,1 +1,2 @@
+Power BI project in AI Data Analyst Bootcamp from workearly.gr
 The purpose of this project is to analyze data related to the COVID-19 pandemic using Power BI as a data visualization and processing tool. Specifically, the dataset includes information such as the number of active cases, total and daily new cases, deaths, severe cases, and recoveries. Through Power BI these data will be processed in order to produce dynamic reports and visualizations allowing for comparisons between countries and the extraction of meaningful insights.
